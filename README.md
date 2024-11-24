@@ -1,6 +1,6 @@
 <div align="center">
   <br />    
-      <h1>Full stack Thread App</h1>
+      <h1>A full stack Thread App Clone</h1>
   <br />
 
   <div>
@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
-
-  <h3 align="center">A full stack Threads Clone</h3>
   
 </div>
 
